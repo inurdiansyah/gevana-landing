@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Circle background -->
+  <circle cx="32" cy="32" r="30" fill="#7C3AED"/>
+  <!-- Shirt/laundry icon -->
+  <path d="M20 16h24l-3 8H23l-3-8z" fill="#EDE9FE"/>
+  <path d="M23 24h18v6H23v-6z" fill="#FCE7F3"/>
+  <rect x="22" y="30" width="20" height="14" rx="2" fill="#EDE9FE"/>
+  <path d="M22 30c0 2 4 4 10 4s10-2 10-4v14H22V30z" fill="#DDD6FE"/>
+  <!-- Collar lines -->
+  <path d="M26 16l6 8 6-8" stroke="#7C3AED" stroke-width="2" fill="none"/>
+  <!-- Bubbles -->
+  <circle cx="44" cy="18" r="3" fill="#EC4899" opacity="0.7"/>
+  <circle cx="50" cy="14" r="2" fill="#EC4899" opacity="0.5"/>
+  <circle cx="46" cy="12" r="1.5" fill="#EC4899" opacity="0.4"/>
+</svg>
